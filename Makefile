@@ -2,4 +2,4 @@ all: pyinstaller
 
 pyinstaller:
 	pip install pyinstaller
-	pyinstaller ide.py --onefile
+	pyinstaller fusion_editor.py --onefile
