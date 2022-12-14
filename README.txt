@@ -1,7 +1,7 @@
-*Aurora Storm IDE (Aurora) - version:  Beta 1.0
+*Fusion Editor TKinter (Fusion Programming Language) - version:  Beta 1.0
 
 Custom your Syntax Highlighting at: "dictionary.py"
-You can also explore the Uranium IDE source code at: "uranium-ide.py"
+You can also explore the Fusion Editor (TKinter) source code at: "fusion_editor.py"
 
 
 Requires to work:
